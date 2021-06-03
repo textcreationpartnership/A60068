@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short discourse concerning the invasion of France by the German army upon the Rhine</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60068</idno><idno type="EEBO-CITATION">13783454</idno>
+  <idno type="VID">101793</idno>
+  <idno type="EEBO-PROQUEST">2248500500</idno>
+  
+            <idno type="STC">Wing S3583A</idno>
+            <idno type="STC">ESTC R10631</idno>
+            <idno type="OCLC">13783454</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101793)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short discourse concerning the invasion of France by the German army upon the Rhine</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by  Benj. Motte and published by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101793:1"/>
+            <pb n="1" facs="tcp:101793:1"/>
+            <head>A short DISCOURSE Concerning the INVASION OF FRANCE, BY THE German Army Upon the <hi>RHINE.</hi>
+            </head>
+            <p>THE success of our Army upon the <hi>Ʋpper Rhine,</hi> is of Infinite Concernment to the Confederates. For if it make a good Im<g ref="char:EOLhyphen"/>pression, it may at once turn the Fortune of the War. But here lies the Difficulty, that the <hi>French,</hi> having that whole River from <hi>Swisserland</hi> down to <hi>Philipsburg,</hi> will be at their old play: that is, while We are acting on this side the River, they will slip over
+<pb n="2" facs="tcp:101793:2"/> into <hi>Germany,</hi> and make havock there. which will break all our Measures.</p>
+            <p>There are two Remedies for this Evil.</p>
+            <p>THE FIRST REMEDY is; To attacque some place, not on this side the <hi>Rhine,</hi> but upon the <hi>Rhine.</hi> That so the Besiegers may cover <hi>Germany</hi> the while: being near at hand to march after the Enemy, in case of an Incursion. If there be Necessity, or if there be a fair Opportunity to destroy them, we may quit the Siege, and march after them with our whole Army. Otherwise we may leave some Foot to continue the Siege; and March with the rest, and with all the Horse and Dragoons.</p>
+            <p>The Places which the <hi>French</hi> have upon this River (to begin with the lowermost) are these; <hi>Philipsburg, Fort-Louis, Strasburg, Brisach,</hi> and <hi>Huningen.</hi> As for <hi>Friburg,</hi> which is their only Place beyond the <hi>Rhine,</hi> it will be hard to take, and will not signify much when it is taken. For it is but a dozen <hi>English</hi> Miles (as I take it) from <hi>Brisach:</hi> So that <hi>Brisach</hi> would Command almost as far without it, as now it doth with it.</p>
+            <p>Of these Places upon the River, <hi>Strasburg</hi> I doubt is too great and too strong to be attacqued: and <hi>Brisach</hi> and <hi>Huningen</hi> seem too much out of the way. But <hi>Fort-Louis</hi> and <hi>Philipsburg</hi> stand fair for us: and <hi>Philipsburg</hi> the fairer of the two. To the Siege whereof all Necessaries (and particularly Boats for Bridges) may be carried by Water: that is, down the <hi>Neckar</hi> from <hi>Heidleberg</hi> to <hi>Man<g ref="char:EOLhyphen"/>heim,</hi> and from thence up the <hi>Rhine</hi> to <hi>Philipsburg.</hi> And by taking this Place we should clear a good Country on the <hi>German</hi> side of the <hi>Rhine;</hi> and on the <hi>French</hi> side com<g ref="char:EOLhyphen"/>mand far and wide, and open a way into <hi>Alsatia.</hi> In short, <hi>Philipsburg</hi> plainly lies the first in course; and if it could be had with a Wish, we should Wish for it in the first place.
+<pb n="3" facs="tcp:101793:2"/> But if the gaining it will be exceeding difficult, and <hi>Fort Louis</hi> may be had much easier; we must then pass by <hi>Philipsburg,</hi> and fall upon <hi>Fort Louis.</hi> which indeed consists of three Forts; one on each side the River, and the main one in the midst within an Island. The Boats for Bridges may be taken up below <hi>Philipsburg;</hi> and being carried two or three miles over land, may be put again into the River above. which thing while 'tis doing our Army may be Bombarding the Town. Or these Boats, as all other Necessaries, may be carried directly by Land from <hi>Heidleberg:</hi> the distance from thence to <hi>Fort Louis</hi> being not above twenty of our Miles. It must be granted, that our having <hi>Fort Louis</hi> will not clear or cover any part of <hi>Germany:</hi> But it will terribly annoy the <hi>French</hi> Quarters; and plainly dismember <hi>Alsatia,</hi> which is now entirely Theirs. Also this Place lies very commodiously to carry on the War further; that is, to carry it into <hi>Lorrain,</hi> and so into <hi>France.</hi>
+            </p>
+            <p>But if both <hi>Philipsburg</hi> and <hi>Fort Louis,</hi> which are exceed<g ref="char:EOLhyphen"/>ing strong, be likewise so furnish'd and provided, as not to be taken but by hard and long Sieges; we must pass them both by, we must not medle with them. We must not imi<g ref="char:EOLhyphen"/>tate the late Duke of <hi>Lorrain;</hi> whose hard Fate or great Fault it was, alwaies to attacque those Places that were best provided. which made all his Archievments so ex<g ref="char:EOLhyphen"/>tremely difficult to him. Never any man did so little, with so many and so great Advantages in Force.</p>
+            <p>We see therefore that the first Remedy (I mean that al<g ref="char:EOLhyphen"/>ready proposed) will in this case faile us. For we cannot reasonably attacque some Place upon the <hi>Rhine,</hi> if there be no Place upon it proper to attacque. We must therefore of necessity employ our selves on this side the River: that is, on the West or <hi>French</hi> side. And then the second Remedy may stand us in some stead, which I am now to propose.
+<pb n="4" facs="tcp:101793:3"/> THE SECOND REMEDY against the Evil before men<g ref="char:EOLhyphen"/>tioned, that is, against the Incursions of the <hi>French,</hi> is this; That we should have two Armies, one to Observe and Con<g ref="char:EOLhyphen"/>front the Enemy, and the other to carry on Sieges. But it is of great Concernment, that this Observing Army should be rightly Posted. For except it be so, it will signify no<g ref="char:EOLhyphen"/>thing. If it be Posted on this side the <hi>Rhine:</hi> the <hi>French</hi> will make their Courses into <hi>Germany</hi> at their pleasure: if on the other side, they will easily disturb our Sieges. It fol<g ref="char:EOLhyphen"/>lows therefore that this Army must be Posted upon the <hi>Rhine:</hi> with a Bridge over it, thereby to Command both sides. By which means▪ they will Cover the Country on the one side, and the Sieges on the other.</p>
+            <p>A Bridge therefore upon the <hi>Rhine,</hi> well fortified, is the Ground work and Foundation of this whole Affair. But where and in what part of the River must this Bridge be? Had this Question been ask'd last year, or the year before, I must have answer'd that <hi>Manheim</hi> should be the Place: where also the <hi>Germans</hi> pass'd the <hi>Rhine</hi> those two Years. This Town stood (for it is now demolish'd and ruin'd) up<g ref="char:EOLhyphen"/>on a Tongue of Land, at the Con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uence of the <hi>Rhine</hi> and <hi>Neckar:</hi> being one of the best situations in <hi>Germany.</hi> And tho in those former years, the <hi>Germans</hi> were not strong enough to undertake great Sieges, yet they might easily have fortified <hi>Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heim:</hi> which had been a mighty advantage to them. For whereas before they had the <hi>Rhine</hi> up to <hi>Mentz,</hi> they would then have had it up to <hi>Manheim:</hi> which is near forty Miles higher. And the Place would plentifully have been supplied, from <hi>Mentz</hi> up the <hi>Rhine.</hi> and down the <hi>Neckar</hi> from <hi>Heidleberg.</hi> Also the Contributions out of the <hi>French</hi> Quarters would have maintain'd a great Garrison: which the greater it had been, the farther it had Command<g ref="char:EOLhyphen"/>ed. The <hi>French</hi> Garrisons of <hi>Philipsburg</hi> and <hi>Landau,</hi> being the while <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rewdly curbed by this rampant Garrison at <hi>Man<g ref="char:EOLhyphen"/>heim.</hi>
+               <pb n="5" facs="tcp:101793:3"/> The neglecting therefore of this Place was then a very great Oversight: tho I impu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it, not to want of Judg<g ref="char:EOLhyphen"/>ment, but to mere Slothfulness.</p>
+            <p>But now, since the <hi>German</hi> Army will be much greater then it hath been in former Years, it seems more advisable that they throw over their Bridge between <hi>Philipsburg</hi> and <hi>Strasburg:</hi> and the nearer <hi>Strasburg,</hi> the better. For they will there be in the middle of their work; and will be more ready, to cover both the Sieges and the Country. Let not this Enterprise be thought either impossible or extremely difficult. For we may well remember; that the Duke of <hi>Bavaria,</hi> having his Boats with him upon Land-Carriages, quickly pass'd the <hi>Save</hi> in the face of the <hi>Turkish</hi> Army. And I think that River is as bigg at <hi>Belgrade,</hi> as the <hi>Rhine</hi> is at <hi>Strasburg.</hi>
+            </p>
+            <p>When we have here laid our Bridge, and cover'd it at each End with good Intrenchments, we shall be in a dread<g ref="char:EOLhyphen"/>ful posture to push on the War. And we may keep most of the Horse, with some Foot, to confront the <hi>French</hi> Army: while a great part of the Foot, with some Horse, go to work with their Garrisons, and may have their Wills at them. I hope they will not engage upon any difficult Siege: and since all Places cannot be provided alike, I hope they will fall upon those that are worst provided.</p>
+            <p>If the <hi>French</hi> Army Post themselves towards <hi>Strasburg</hi> (as 'tis most likely they will); Our Besiegers may then attacque <hi>Fort Louis,</hi> if the thing be found feasable. But they must be sure not to spend too much time about it, which is now very pretious. In case we attacque and gain this Place, our new made Bridge will become unnecessary: in regard <hi>Fort Louis</hi> will secure the Passage of the River, and our Observing Army may be there Posted. So that we may take the Bridge in sunder, and slight the Intrenchments. But in case we do not take <hi>Fort Louis,</hi> we must with care continue the Bridge, and make the Intrenchments substan<g ref="char:EOLhyphen"/>tial and compleat.</p>
+            <pb n="6" facs="tcp:101793:4"/>
+            <p>If it may conveniently be done, we should be at some Cost and Labour in Bombarding <hi>Strasburg.</hi> I am loth to advise the Ruine of so famous a City. But they have brought it upon themselves, by their base submission to the <hi>French.</hi> Were this City soundly bombarded and destroyed, 'tis verily thought the <hi>French</hi> would quit it. They would not be willing to spare so many Men, in a time when they are like so much to want them, to keep a heap of Rubbish. Their Garrison there is twelve or fifteen thousand Men. and there is the Governour of the City, the Governour of the Ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adel, the Governour of the Fort of <hi>Kiel,</hi> and the Govern<g ref="char:EOLhyphen"/>ours of three or four other Forts. All which Forts would look very simply, if the City in the midst of them were destroyed. Wherefore as the <hi>French</hi> King said some years since, that <hi>he must have Strasburg;</hi> so We may say now, that we must destroy it.</p>
+            <p>But as it hath been said before, we must not spend too much time in these Matters. For the principal work of our Besieging Army is to March directly for <hi>Lorrain.</hi> And if the <hi>French</hi> March after them, our Observing Army will closely follow the <hi>French.</hi> Upon the very Edge of <hi>Lorrain</hi> towards <hi>Alsatia,</hi> we shall find <hi>Phalsburg;</hi> and <hi>Sarburg</hi> a little further. about ten miles from each other, and <hi>Phals<g ref="char:EOLhyphen"/>burg</hi> about thirty miles from the <hi>Rhine.</hi> They are ordi<g ref="char:EOLhyphen"/>nary <hi>French</hi> Garrisons, and such as I desire we should deal with. For as <hi>Tully</hi> wishes that the Readers of some of his Books, should not be learned, nor yet downright unlearned: So I wish that the Places we attacque, may be neither very strong nor very weak. If they are very strong, they are hard to be gotten; and if they are very weak, they are easily lost. The midling sort, as long as we are Masters of the Field, are as good as the best. But if there should be none of this midling sort, we should be better employed in fortifying weak Places, then in taking those that are very strong, and well furnish'd. The Places of all others most
+<pb n="7" facs="tcp:101793:4"/> for our turn, are strong Places weakly mann'd, or other<g ref="char:EOLhyphen"/>wise ill provided. Such Places we shall meet with if we March into the Country: for they cannot then fully pro<g ref="char:EOLhyphen"/>vide for all their strong Places.</p>
+            <p>As matters stand, it is our Business to rush into the Country, and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atter the War. Which would put the <hi>French</hi> upon such a guard, as would quite drink up their Field Army. I confess this would take up a great many Men on our side likewise. But <hi>Germany</hi> would supply us plentifully with them, if we could but find means to main<g ref="char:EOLhyphen"/>tain them. Also we may rely upon it, that the Country would come in; if they saw a Man amongst them, that went about his business like a Workman. Prince <hi>Lewis</hi> of <hi>Baden,</hi> if he be the Commander, knows well how to manage this Game. He is a General that dares March into the Enemies Country Such another Run as he had about <hi>Nissa,</hi> when he had not half the Numbers he will have now, would (at this Juncture) break the <hi>French</hi> Tyranny to pieces.</p>
+            <p>If we did nothing else but secure a passage over the <hi>Rhine,</hi> and take some Place in <hi>Lorrain,</hi> it would be a good progress: and it would make the <hi>French</hi> extremely un<g ref="char:EOLhyphen"/>easy. But this is but a step to further Advantages. Two more such steps would bring us to the <hi>Moselle,</hi> and another step would carry us into <hi>France.</hi> Tho <hi>Alsace</hi> and <hi>Lorrain</hi> may also now be accounted <hi>France,</hi> being in a settled Sub<g ref="char:EOLhyphen"/>jection to the <hi>French.</hi>
+            </p>
+            <p>To conclude; If we have a Bridge upon the <hi>Rhine</hi> near <hi>Strasburg,</hi> we cannot well miscarry: but if we have it not, I doubt we shall be as basely baffled, as hitherto we have been. Or perhaps we may have one of the Duke of <hi>Lorrains</hi> fortunate Campagnes: that is, With a mighty Army which might have subdued whole Countries, we may take one strong Town; after a long, chargeable, laborious, and bloody Siege,
+<pb n="8" facs="tcp:101793:5"/> Our having a Bridge near <hi>Strasburg</hi> will not hinder, but that we may have another at <hi>Manheim.</hi> which Place may be fortifying before the Armies can take the Field. But we must advance to further Conquests from the Bridge near <hi>Strasburg.</hi> For if we should do it from <hi>Manheim,</hi> 'tis doubt <hi>Germany</hi> would be too much exposed.</p>
+            <p>I have pleased my self with the Thoughts of these Matters; and now I communicate them, to please Others.</p>
+            <p>If the glorious Prince of <hi>Baden</hi> Command upon the <hi>Rhine,</hi> he will do much better, then either I or any man else can advise him.</p>
+            <p>There are two Things which raise Peoples Expectations, and upon which (at this time) they chiefly ground their Hopes: and those are, the Descent from <hi>England,</hi> and this Invasion from <hi>Germany.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by BENJ. MOTTE, and Published by <hi>Randal Taylor,</hi> near <hi>Stationers-hall,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
